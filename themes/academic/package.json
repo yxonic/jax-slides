@@ -1,0 +1,18 @@
+{
+  "slidev": {
+    "colorSchema": "both",
+    "highlighter": "shiki",
+    "defaults": {
+      "fonts": {
+        "sans": "Montserrat",
+        "serif": "Roboto Slab",
+        "mono": "Roboto Mono"
+      },
+      "hightlighter": "shiki",
+      "themeConfig": {
+        "paginationX": "r",
+        "paginationY": "t"
+      }
+    }
+  }
+}
