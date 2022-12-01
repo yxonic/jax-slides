@@ -6,7 +6,7 @@ css: unocss
 layout: cover
 ---
 
-# JAX: A Brief Introduction
+## JAX: Compiles the Future of Deep Learning to Present
 
 <span class="text-lg font-bold mr-1">Yu Yin</span> `@yxonic`
 
@@ -493,6 +493,8 @@ def f(...):
 - JAX offers low-level computation, autograd, and acceleration
 - Use high-level frameworks to implement your network faster
 
+<img class="w-128 mt-10 mx-auto" src="imgs/arch.png" />
+
 ---
 
 # Working with high-level DL frameworks
@@ -606,15 +608,4 @@ class: text-center
 
 # Learn More
 
-[Documentations](https://sli.dev) · [GitHub](https://github.com/slidevjs/slidev) · [Showcases](https://sli.dev/showcases.html)
-
-
-<div class="text-sm text-gray-400">
-
-https://www.reddit.com/r/reinforcementlearning/comments/x2izi9/did_anyone_try_torchscript_vs_jax/
-<br />
-https://theaisummer.com/jax-tensorflow-pytorch/
-<br />
-https://liuzhian.github.io/2021/04/08/%E5%88%9D%E8%AF%86TorchScript/
-
-</div>
+[Documentation](https://jax.readthedocs.io/) · [GitHub](https://github.com/google/jax) · [Video](https://www.youtube.com/watch?v=iDxJxIyzSiM) · [Course](https://mlc.ai)
